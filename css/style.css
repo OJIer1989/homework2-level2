@@ -92,18 +92,16 @@ color: #757575;
 display: flex;
 }
 .Featured-work_section{
-height: 536px;
 display: inline-block;
-}
-.Featured-work_section:first-child,
-.Featured-work_section:last-child{
-  height: 716px;
 }
 
 .section{
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  max-width: 612px;
+}
+.featured-img{
+ max-width: 100%;
 }
  .content{
   display: contents;
@@ -120,5 +118,4 @@ display: inline-block;
  }
  .featured-text>span{
   color: #757575;
-
  }
