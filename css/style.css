@@ -119,3 +119,18 @@ display: inline-block;
  .featured-text>span{
   color: #757575;
  }
+ @media (max-width: 414px){
+  .jonas-text,
+    .jonas-span{
+      font-size: 17px;
+      line-height: 22px;
+      padding-top: 30px;
+    }
+     .Featured-work_info{
+      padding-top: 50px;
+     }
+         .featured-text{
+          font-size: 15px;
+          margin-left: 0;
+         }
+ }
