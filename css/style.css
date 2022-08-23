@@ -119,7 +119,7 @@ display: inline-block;
  .featured-text>span{
   color: #757575;
  }
- @media (max-width: 414px){
+ @media (max-width: 450px){
   .jonas-text,
     .jonas-span{
       font-size: 17px;
