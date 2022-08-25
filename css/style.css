@@ -419,20 +419,20 @@ border-bottom: 1px solid #F0F0F0;
       }
     
       .footer-nav_li{
-       margin-right: 12px;
-       font-size: 10px;
+       margin-right: 9px;
+       font-size: 12px;
        line-height: 0;
       }
       .info{
         margin-top: 10px;
       }
       .footer-link{
-        font-size: 10px;
+        font-size: 8px;
         line-height: 0;
         margin-right: 10px;
       }
       .footer-info{
-        font-size: 11px;
+        font-size: 9px;
         line-height: 0;
       margin-left: 10px;
       }
