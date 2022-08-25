@@ -314,6 +314,7 @@ border-bottom: 1px solid #F0F0F0;
       margin-right: 0;
       justify-content: center;
       font-size: 13px;
+      padding: 0;
     }
     .li-nav:nth-child(3){
       margin-right: 0;
