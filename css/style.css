@@ -302,7 +302,7 @@ border-bottom: 1px solid #F0F0F0;
 
 
 
-  @media (max-width: 900px){
+  @media (max-width: 700px){
   .potfolio-text{
     font-size: 10px;
   }
@@ -437,3 +437,171 @@ border-bottom: 1px solid #F0F0F0;
       margin-left: 6px;
       }
    } 
+@media (max-width: 900px) {
+  .potfolio-text {
+    font-size: 13px;
+  }
+
+  .dot {
+    vertical-align: middle;
+    margin: 0 5px;
+  }
+
+  .header-nav {
+    margin-right: 0;
+    justify-content: center;
+    font-size: 13px;
+    padding: 0;
+  }
+
+  .li-nav:nth-child(3) {
+    margin-right: 0;
+  }
+
+  .jonas-info {
+    padding-top: 65px;
+    padding-left: 45px;
+  }
+
+  .jonas-text,
+  .jonas-span {
+    font-size: 17px;
+    line-height: 22px;
+    padding-top: 30px;
+    width: 265px;
+    margin: 0 auto;
+  }
+
+  .Featured-work_info {
+    padding: 50px 40px;
+  }
+
+  .featured-text {
+    font-size: 10px;
+    margin-left: 0;
+    line-height: 12px;
+    margin: 12px 0;
+  }
+
+  .Featured-work_p {
+    font-size: 10px;
+    line-height: 14px;
+  }
+
+  .Featured-work_p>span {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .about {
+    padding: 0 40px;
+    padding-bottom: 60px;
+  }
+
+  .about-me_text {
+    line-height: 0;
+  }
+
+  .about-me_text,
+  .about-text {
+    font-size: 15px;
+    line-height: 19px;
+    margin-bottom: 20px;
+  }
+
+  .services-body {
+    padding: 0 40px;
+    padding-top: 100px;
+  }
+
+  .experience-info {
+    font-size: 15px;
+  }
+
+  .servises-item {
+    margin-right: 20px;
+    padding: 15px 0;
+  }
+
+  .experience-first {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .experience-second {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  .experience-three {
+    font-size: 15px;
+    line-height: 16px;
+  }
+
+  .experience-item {
+    padding: 25px 0;
+  }
+
+  .experience {
+    margin-bottom: 100px;
+  }
+
+  .servises-info {
+    font-size: 17px;
+    line-height: 16px;
+    margin-bottom: 25px;
+  }
+
+  .servises-text {
+    font-size: 10px;
+    line-height: 17px;
+  }
+
+  .footer-body {
+    padding: 50px 0;
+    margin: 0 40px;
+  }
+
+  .link {
+    padding-bottom: 15px;
+  }
+
+  .card-body {
+    margin: 70px 40px;
+    height: 380px;
+  }
+
+  .card-text {
+    font-size: 23px;
+    line-height: 30px;
+    max-width: 300px;
+    margin-bottom: 30px;
+  }
+
+  .card-link {
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  .footer-nav_li {
+    margin-right: px;
+    font-size: 18px;
+    line-height: 0;
+  }
+
+  .info {
+    margin-top: 15px;
+  }
+
+  .footer-link {
+    font-size: 15px;
+    line-height: 0;
+    margin-right: 21px;
+  }
+
+  .footer-info {
+    font-size: 14px;
+    line-height: 0;
+    margin-left: 26px;
+  }
+}
