@@ -782,15 +782,15 @@ border-bottom: 1px solid #F0F0F0;
    }
 
    .footer-link {
-     font-size: 6px;
+     font-size: 5px;
      line-height: 0;
-     margin-right: 6px;
+     margin-right: 5px;
    }
 
    .footer-info {
-     font-size: 7px;
+     font-size: 5px;
      line-height: 0;
-     margin-left: 6px;
+     margin-left: 5px;
    }
  }
 
