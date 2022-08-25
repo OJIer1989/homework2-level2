@@ -499,6 +499,7 @@ border-bottom: 1px solid #F0F0F0;
       }
        .Featured-work_info{
        padding: 50px 40px;
+       text-align: center;
        }
            .featured-text{
           font-size: 10px;
@@ -562,7 +563,7 @@ border-bottom: 1px solid #F0F0F0;
         margin-bottom: 25px;
       }
       .servises-text {
-        font-size: 8px;
+        font-size: 7px;
         line-height: 17px;
       }
        .footer-body{
