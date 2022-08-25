@@ -10,6 +10,7 @@ body{
 background-color: #fff;
 }
 ul{
+
   padding-left: 0;
 }
 li{
@@ -150,8 +151,7 @@ width: 100%;
   margin-bottom: 0;
 }
 .services-body{
-  padding: 0 96px;
-  padding-top: 264px;
+ padding: 132px 96px 256px 96px;
 }
 .experience{
   display: flex;
@@ -224,6 +224,81 @@ padding: 25px 0;
 border-bottom: 1px solid #F0F0F0;
 margin-right: 72px;
 }
+
+.card-body{
+margin: 128px 96px;
+height: 596px;
+background: #FFEBD8;
+border-radius: 20px;
+display: flex;
+justify-content:center;
+align-items: center;
+flex-direction: column;
+}
+.card-text{
+  font-size: 57px;
+  line-height: 73px;
+  letter-spacing: 2.56px;
+  max-width: 638px;
+  text-align: center;
+  margin-bottom: 64px;
+}
+.card-link{
+ font-size: 37px;
+  line-height: 52px;
+  letter-spacing: 1.2px;
+}
+.footer-body{
+    margin: 0 96px;
+    padding: 128px 0;
+}
+.link{
+  display: flex;
+justify-content: space-between;
+padding-bottom: 64px;
+border-bottom: 1px solid #F0F0F0;
+}
+.footer-nav{
+  display: flex;
+}
+.footer-nav_li{
+  margin-right: 31px;
+  font-size: 19px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+}
+.footer-nav_li:last-child{
+  margin-right: 0;
+}
+.info{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 64px;
+}
+.footer-text{
+  display: flex;
+  align-items: center;
+}
+.footer-link{
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 2px;
+  margin-right: 32px;
+}
+.footer-info{
+  color: #525252;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.14px;
+  margin-left: 31px;
+}
+
+
+
+
+
+
+
 
 
 
@@ -321,5 +396,42 @@ margin-right: 72px;
       .servises-text {
         font-size: 8px;
         line-height: 17px;
+      }
+       .footer-body{
+         padding: 50px 0;
+         margin: 0 40px;
+       }
+      .card-body{
+        margin: 70px 40px;
+        height: 380px;
+      }
+      .card-text{
+        font-size: 23px;
+        line-height: 30px;
+      }
+      .card-link{
+        font-size: 20px;
+        line-height: 25px;
+      }
+     .link{
+      padding-bottom: 10px;
+     }
+      .footer-nav_li{
+       margin-right: 5px;
+       font-size: 8px;
+       line-height: 0;
+      }
+      .info{
+        margin-top: 10px;
+      }
+      .footer-link{
+        font-size: 4px;
+        line-height: 0;
+        margin-right: 10px;
+      }
+      .footer-info{
+        font-size: 4px;
+        line-height: 0;
+        margin-right: 10px;
       }
    } 
