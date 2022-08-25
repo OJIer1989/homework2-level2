@@ -420,7 +420,7 @@ border-bottom: 1px solid #F0F0F0;
     
       .footer-nav_li{
        margin-right: 5px;
-       font-size: 10px;
+       font-size: 9px;
        line-height: 0;
       }
       .info{
@@ -429,14 +429,20 @@ border-bottom: 1px solid #F0F0F0;
       .footer-link{
         font-size: 7px;
         line-height: 0;
-        margin-right: 10px;
+        margin-right: 8px;
       }
       .footer-info{
-        font-size: 6px;
+        font-size: 8px;
         line-height: 0;
       margin-left: 6px;
       }
    } 
+
+
+
+
+
+
 @media (max-width: 900px) {
   .potfolio-text {
     font-size: 13px;
@@ -584,7 +590,7 @@ border-bottom: 1px solid #F0F0F0;
   }
 
   .footer-nav_li {
-    margin-right: px;
+    margin-right: 26px;
     font-size: 18px;
     line-height: 0;
   }
