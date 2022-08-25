@@ -642,7 +642,9 @@ border-bottom: 1px solid #F0F0F0;
      font-size: 13px;
      padding: 0;
    }
-
+    .li-nav{
+      font-size: 12px;
+    }
    .li-nav:nth-child(3) {
      margin-right: 0;
    }
@@ -782,15 +784,15 @@ border-bottom: 1px solid #F0F0F0;
    }
 
    .footer-link {
-     font-size: 5px;
+     font-size: 4px;
      line-height: 0;
-     margin-right: 5px;
+     margin-right: 4px;
    }
 
    .footer-info {
-     font-size: 5px;
+     font-size: 4px;
      line-height: 0;
-     margin-left: 5px;
+     margin-left: 4px;
    }
  }
 
