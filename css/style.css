@@ -626,7 +626,7 @@ border-bottom: 1px solid #F0F0F0;
 
 
 
- @media (max-width: 320px) {
+ @media (max-width: 395px) {
    .potfolio-text {
      font-size: 10px;
    }
